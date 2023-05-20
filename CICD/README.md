@@ -2,4 +2,6 @@
 
 
 ***Задание 1
-![Скриншот-1](https://github.com/NateUrlUseless/sdvps-materials/main/CICD/1.png)
+
+
+![Скриншот-1](https://github.com/NateUrlUseless/sdvps-materials/blob/main/CICD/1.png)
