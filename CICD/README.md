@@ -15,3 +15,9 @@
 
 ![Скриншот-5](https://github.com/NateUrlUseless/sdvps-materials/blob/main/CICD/5.png)
 ![Скриншот-4](https://github.com/NateUrlUseless/sdvps-materials/blob/main/CICD/6.png)
+
+##Задание 3
+
+![Скриншот-6](https://github.com/NateUrlUseless/sdvps-materials/blob/main/CICD/7.png)
+![Скриншот-7](https://github.com/NateUrlUseless/sdvps-materials/blob/main/CICD/8.png)
+![Скриншот-8](https://github.com/NateUrlUseless/sdvps-materials/blob/main/CICD/9.png)
