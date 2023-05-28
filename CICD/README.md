@@ -27,3 +27,12 @@
 
 ![Скриншот-10](https://github.com/NateUrlUseless/sdvps-materials/blob/main/CICD/10.png)
 ![Скриншот-11](https://github.com/NateUrlUseless/sdvps-materials/blob/main/CICD/11.png)
+
+#Код для пуша в нексус репозиторий
+```
+                      stage('Push image') {  
+
+                            sh 'docker login -u admin -p 123 http://51.250.2.9:8081/'
+                            sh 'docker push  http://51.250.2.9:8081/Golang}'
+                            }
+```
